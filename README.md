@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faiz0n
 - 👀 I’m interested in Pyhon,JavaScript,HTML,CSS,Bootstrape,Express and many more
 - 🌱 I’m currently learning Web Developemt
-- 💞️ I’m looking to collaborate on Projects of Web Development
+- 💞️ I’m looking to collaborate on Projects for Web Development
 - 📫 How to reach me faizanshaikh91889@gmail.com
 
 <!---
